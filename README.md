@@ -23,18 +23,6 @@ Data flows through the following stages:
 * Visual Studio with SSIS extensions
 * SQL Server Database
 
-## Project Structure
-SSIS_SQL_ETL_Pipeline/
-├── SQL/                    # SQL scripts and database objects
-├── Screenshots/            # Implementation documentation
-│   ├── pipeline-execution/ # Pipeline execution screenshots
-│   ├── data-before/       # Pre-execution data state 
-│   └── data-after/        # Post-execution data state
-├── backup/                 # Data warehouse backup (.bak file)
-├── data/                   # Source flat files
-├── src/
-│   └── SSIS/              # SSIS package (.dtsx)
-└── README.md
 
 ## Implementation Steps
 ### Lesson 1: Basic Package Creation and Configuration

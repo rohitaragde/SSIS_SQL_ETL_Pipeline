@@ -28,7 +28,7 @@ SSIS_SQL_ETL_Pipeline/
 ├── SQL/                    # SQL scripts and database objects
 ├── Screenshots/            # Implementation documentation
 │   ├── pipeline-execution/ # Pipeline execution screenshots
-│   ├── data-before/       # Pre-execution data state
+│   ├── data-before/       # Pre-execution data state 
 │   └── data-after/        # Post-execution data state
 ├── backup/                 # Data warehouse backup (.bak file)
 ├── data/                   # Source flat files

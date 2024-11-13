@@ -103,7 +103,11 @@ SSIS_SQL_ETL_Pipeline/
    - Test package execution
 
 ## Contributors
-- [rohitaragde](https://github.com/rohitaragde)
+- Rohit Annasaheb Ragde
 
 ## Credits
-This project was created following the SSIS tutorial for learning ETL concepts and implementation.
+This project was created following the SSIS tutorial for learning ETL concepts and implementation :-
+
+https://learn.microsoft.com/en-us/sql/integration-services/lesson-1-create-a-project-and-basic-package-with-ssis?view=sql-server-ver16
+
+

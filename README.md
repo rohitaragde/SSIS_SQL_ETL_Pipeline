@@ -48,10 +48,10 @@ Data flows through the following stages:
 
 ### Data Validation
 #### Before Pipeline Execution
-![Database table state before running the ETL pipeline](Screenshots/ss_before_data_load.png).
+![Database table state before running the ETL pipeline](Screenshots/ss_before_data_load.png)
 
 #### After Pipeline Execution
-![Database table state after successful ETL process, showing the newly loaded data](Screenshots/ss_after_data_load.png).
+![Database table state after successful ETL process, showing the newly loaded data](Screenshots/ss_after_data_load.png)
 
 ## Setup Instructions
 ### Prerequisites

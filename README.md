@@ -44,7 +44,7 @@ Data flows through the following stages:
 
 ## Pipeline Execution Results
 ### Pipeline Execution Flow
-https://github.com/rohitaragde/SSIS_SQL_ETL_Pipeline/blob/master/Screenshots/ETL_Pipeline.png
+![ETL Pipeline](Screenshots/ETL_Pipeline.png)
 
 ### Data Validation
 #### Before Pipeline Execution
